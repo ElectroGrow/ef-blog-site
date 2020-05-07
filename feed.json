@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Electric Fertilizer",
+    "description": "",
+    "home_page_url": "https://electrogrow.github.io/ef-blog-site",
+    "feed_url": "https://electrogrow.github.io/ef-blog-site/feed.json",
+    "user_comment": "",
+    "icon": "https://electrogrow.github.io/ef-blog-site/media/website/EF-Logo-20120121.png",
+    "author": {
+        "name": "David Wechsler"
+    },
+    "items": [
+        {
+            "id": "https://electrogrow.github.io/ef-blog-site/electroculture-tomato-growers-achieve-50-percent-gains.html",
+            "url": "https://electrogrow.github.io/ef-blog-site/electroculture-tomato-growers-achieve-50-percent-gains.html",
+            "title": "Electroculture Tomato Growers Achieve Gains of Over 50%",
+            "summary": "Weber and Lang are a father and son duo who are obsessed&hellip;",
+            "content_html": "<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt; color: #676767;\">Weber and Lang are a father and son duo who are obsessed with electroculture almost as much as I am. In this brief post, I’d like to share with you some of the amazing gains that these guys achieved by simply applying 5 Volts to a number of tomato plants grown in 5 gallon buckets…</p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt;\"><span style=\"color: #676767;\">In preparation for science fair season. Lang and his dad got in touch with me to get advice on running some electro-horticulture experiments. They found that by growing tomato plants in a drought-resistant grow system called a </span><a href=\"http://www.globalbuckets.org/\">sub-irrigation planter (SIP</a><span style=\"color: #676767;\">) they didn’t have to worry about watering as much, since it became something they just needed to do every few days rather than daily.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt;\"><span style=\"color: #676767;\">These guys have done a great job with their experiments… Over 2-3 seasons they have consistently achieved yield gains of over 50% by weight.  This was accomplished using pulsed electroculture at a voltage of about 3.7 Volts.  Similar results can be seen by looking at how well my friend Bill did in his </span><a href=\"http://stage.electricfertilizer.com/electricfertilizer.com/2014/01/backyard-garden-electroculture-creates-large-broccoli-tomato-eggplants/\">electrified home garden</a><span style=\"color: #676767;\">. If you take a look at the pictures below, you’ll also see that the plants themselves tend to grow faster as well.</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt;\"> <img class=\"post__image\" src=\"https://electrogrow.github.io/ef-blog-site/media/posts/3/weber-tomato-early-2014-800x367.jpg\" alt=\"\" width=\"799\" height=\"367\"></p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt;\"> </p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt; color: #676767;\">As a result of their experiments, Lang has placed in the top-3 in two state science fair competitions.</p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt; color: #676767;\">Nowadays, they’re looking into using clones to keep the genetic variability between samples as close as possible, allowing them to fine-tune the process.</p>\n<p style=\"margin-top: 0pt; margin-bottom: 7pt; font-family: inherit; font-size: 10.5pt; color: #676767;\"> </p>",
+            "image": "https://electrogrow.github.io/ef-blog-site/media/posts/3/weber-50pct-tomatoes-800x800.jpg",
+            "author": {
+                "name": "David Wechsler"
+            },
+            "tags": [
+                   "tomatoes",
+                   "plant-electrification",
+                   "electroculture",
+                   "electro-horticulture"
+            ],
+            "date_published": "2020-05-07T00:25:30-05:00",
+            "date_modified": "2020-05-07T00:59:55-05:00"
+        },
+        {
+            "id": "https://electrogrow.github.io/ef-blog-site/welcome-to-the-electric-fertilizer-blog.html",
+            "url": "https://electrogrow.github.io/ef-blog-site/welcome-to-the-electric-fertilizer-blog.html",
+            "title": "Welcome to the Electric Fertilizer Blog!",
+            "summary": "It's been a long time since we've had an actively running blog,&hellip;",
+            "content_html": "<p>It's been a long time since we've had an actively running blog, so based on inspiration, I'm adding a simple one back in.  </p>\n<p>More soon!</p>",
+            "author": {
+                "name": "David Wechsler"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-01T02:39:37-05:00",
+            "date_modified": "2020-05-01T03:09:35-05:00"
+        },
+        {
+            "id": "https://electrogrow.github.io/ef-blog-site/harveststorm-alpha-1-crop-stimulation-system.html",
+            "url": "https://electrogrow.github.io/ef-blog-site/harveststorm-alpha-1-crop-stimulation-system.html",
+            "title": "Welcome to the Electric Fertilizer Store!",
+            "summary": " The HarvestStorm Alpha-1 Grow Stimulator is a system designed to make&hellip;",
+            "content_html": "<p><img class=\"post__image post__image--center\" src=\"https://electrogrow.github.io/ef-blog-site/media/posts/1/HS-alpha-1-shot1.jpg\" alt=\"HarvestStorm Alpha-1 Crop Stimulator\" width=\"164\" height=\"210\"></p>\n<p>The HarvestStorm Alpha-1 Grow Stimulator is a system designed to make trying out electroculture easy.  Electroculture is an experimental crop-enhancement technology that has been around for over 200 years.  While traditional systems involved the use of large copper plates or high-voltages, this device makes electroculture safe &amp; easy - plug and play!  Based on our research and the needs of plants, some experimentation may be needed.  The system supports 4 different built-in signaling protocols that include well-known frequency groups like Schumann resonance frequencies, Solfreggio frequencies, and others.  The unit is expandable enabling you to share the signal with many other plants or plant groups for protocol-specific efficacy testing or deploying at-scale.  The unit comes with a pair of food-safe electrodes and a UL-rated power supply.  Custom frequencies &amp; protocols are available on-request.</p>\n<p> </p>\n<center><button class=\"snipcart-add-item\"       > Buy Now </button></center>",
+            "author": {
+                "name": "David Wechsler"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-31T13:29:28-06:00",
+            "date_modified": "2020-02-01T18:32:58-06:00"
+        }
+    ]
+}
